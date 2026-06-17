@@ -1,13 +1,13 @@
 {
-  "version": "1.5.2",
-  "release_notes": "Yedekleme auth fix, Dock ikon fix, CI düzeltmeleri.",
+  "version": "1.5.3",
+  "release_notes": "Konsol penceresi fix, dinamik versiyon, sidebar güncelleme.",
   "platforms": {
     "win32": {
-      "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.5.2/ParkSystem-Setup-1.5.2.exe",
-      "sha256": "688c5dcb97d7b22909d0991936fabdb4541644719a70f1af84b24a4b702d2570"
+      "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.5.3/ParkSystem-Setup-1.5.3.exe",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
     },
     "darwin": {
-      "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.5.2/ParkSystem-1.5.2-mac.tar.gz",
+      "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.5.3/ParkSystem-1.5.3-mac.tar.gz",
       "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
     }
   }
