@@ -1,0 +1,14 @@
+{
+  "version": "1.5.2",
+  "release_notes": "Yedekleme auth fix, Dock ikon fix, CI düzeltmeleri.",
+  "platforms": {
+    "win32": {
+      "url": "https://github.com/icaglar/parking-system-full/releases/download/v1.5.2/ParkSystem-Setup-1.5.2.exe",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    },
+    "darwin": {
+      "url": "https://github.com/icaglar/parking-system-full/releases/download/v1.5.2/ParkSystem-1.5.2-mac.tar.gz",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  }
+}
