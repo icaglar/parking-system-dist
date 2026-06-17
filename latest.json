@@ -4,7 +4,7 @@
   "platforms": {
     "win32": {
       "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.5.3/ParkSystem-Setup-1.5.3.exe",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+      "sha256": "292aaf771e1442a39f5229279ffa79b7f4676a45ed07842230d0ad6eacb275fa"
     },
     "darwin": {
       "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.5.3/ParkSystem-1.5.3-mac.tar.gz",
