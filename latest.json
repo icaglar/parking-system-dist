@@ -1,14 +1,7 @@
 {
-  "version": "1.5.3",
-  "release_notes": "Konsol penceresi fix, dinamik versiyon, sidebar güncelleme.",
-  "platforms": {
-    "win32": {
-      "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.5.3/ParkSystem-Setup-1.5.3.exe",
-      "sha256": "292aaf771e1442a39f5229279ffa79b7f4676a45ed07842230d0ad6eacb275fa"
-    },
-    "darwin": {
-      "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.5.3/ParkSystem-1.5.3-mac.tar.gz",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
-    }
-  }
+  "version": "1.5.8",
+  "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.5.8/ParkSystem-Setup-1.5.8.exe",
+  "sha256": "ef03390bb7d0d7ee59c5b10c3cefc4d0b5a1da2c86041273844fd9b4998f78d1",
+  "release_notes": "Surum 1.5.8",
+  "min_version": null
 }
