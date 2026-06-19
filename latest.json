@@ -1,7 +1,7 @@
 {
-  "version": "1.6.2",
-  "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.6.2/ParkSystem-Setup-1.6.2.exe",
-  "sha256": "0fd01a6bbec4f5be7e34a49e077ac87ac06b0d1c16e57c2e887fca25453b9c55",
-  "release_notes": "Surum 1.6.2",
+  "version": "1.7.0",
+  "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.7.0/ParkSystem-Setup-1.7.0.exe",
+  "sha256": "afa30c231ffcd07fd791d7876451bf9417907842d9e3aa1c8a3a77a36b8ad42d",
+  "release_notes": "Surum 1.7.0",
   "min_version": null
 }
