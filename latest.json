@@ -1,16 +1,16 @@
 {
-  "version": "1.11.5",
-  "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.11.5/ParkSystem-Setup-1.11.5.exe",
-  "sha256": "3728251ee9b9dd6f670d8df1c9c233b0e2fd08065f2cf2f59c3710c47fbad3d7",
-  "imza": "e/pOqtbSlGzAPei4sMeEj+U779ksOj51Ix160sMNmSPnYSSzBwPUFGi2Yf4/LijMcWCXBNu9kMoW8awEvasiDQ==",
-  "release_notes": "Surum 1.11.5",
+  "version": "1.12.1",
+  "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.12.1/ParkSystem-Setup-1.12.1.exe",
+  "sha256": "1d4824034f296351f337a74842cfcafda190ab5ab0d4c678d82a30fd03b9f7ee",
+  "imza": "nmPAHC4DMtLDS9wkDMV5EieHDfFSYxh7stNq4hWKqAqu59KHjMgc34n8bm+u5XkvPFJ/0KeCowxVUbLiRlzECA==",
+  "release_notes": "Surum 1.12.1",
   "min_version": null,
   "platforms": {
     "win32": {
-      "version": "1.11.5",
-      "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.11.5/ParkSystem-Setup-1.11.5.exe",
-      "sha256": "3728251ee9b9dd6f670d8df1c9c233b0e2fd08065f2cf2f59c3710c47fbad3d7",
-      "imza": "e/pOqtbSlGzAPei4sMeEj+U779ksOj51Ix160sMNmSPnYSSzBwPUFGi2Yf4/LijMcWCXBNu9kMoW8awEvasiDQ=="
+      "version": "1.12.1",
+      "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.12.1/ParkSystem-Setup-1.12.1.exe",
+      "sha256": "1d4824034f296351f337a74842cfcafda190ab5ab0d4c678d82a30fd03b9f7ee",
+      "imza": "nmPAHC4DMtLDS9wkDMV5EieHDfFSYxh7stNq4hWKqAqu59KHjMgc34n8bm+u5XkvPFJ/0KeCowxVUbLiRlzECA=="
     },
     "darwin": {
       "version": "1.12.1",
