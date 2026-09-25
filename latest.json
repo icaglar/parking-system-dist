@@ -13,10 +13,10 @@
       "imza": "ftRLBzSS8QkG3U5cBfuh0Y14cd0LczXGwPRCCwWXYzHDmTc2ITYMUKuYJq9kmRlV3uJ+KAuKkCpzs9yyMUAaAw=="
     },
     "darwin": {
-      "version": "1.13.1",
-      "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.13.1/ParkSystem-1.13.1-macOS.dmg",
-      "sha256": "62568489dfa7c82c619d76a98551cf1887cc0fdb986584ef6c2671b4dd805c1a",
-      "imza": "cEuijmVTHZN89akhJ2a+YbKLZeP8cdXeqXbV6toB9XBNfdLefQ1xk+zgh2J0iZfB48rTko82X43bUogrVAqpDg=="
+      "version": "1.13.2",
+      "url": "https://github.com/icaglar/parking-system-dist/releases/download/v1.13.2/ParkSystem-1.13.2-macOS.dmg",
+      "sha256": "a8919de090898de2a902eb92a27dbcec6e44235e717335e5cbf5dfb5953ddb6b",
+      "imza": "IUICbq5rFhDRxJ1Vgbxl5M7Egs+3BvWKk4kzyl8THikvN2CPSOAF4Czuz1FNNakjR1sm8qJSLTSDypjlaMi3DA=="
     }
   }
 }
